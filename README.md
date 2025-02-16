@@ -50,17 +50,16 @@ Program manajemen data pasien Hankuk National University Hospital memiliki beber
 
 ## **E. Flow Chart Program**
 ### 1. Menu Utama
+![menu_utama](https://github.com/user-attachments/assets/3436bc0c-6e35-4f67-81f8-8ccb1966a0b1)
 
-![](menu_utama.png)
 ### 2. Menu Melihat Data Pasien (Read)
+![menu_1](https://github.com/user-attachments/assets/dd26acc5-45be-442d-b923-e5bf638e8793)
 
-![](menu_1.png)
 ### 3. Menu Registrasi Pasien Baru (Create)
+![menu_2](https://github.com/user-attachments/assets/70c0791b-8d60-4081-ad91-2e309b61e3cf)
 
-![](menu_2.png)
 ### 4. Menu Registrasi Pasien Lama (Update)
+![menu_3](https://github.com/user-attachments/assets/83f7da8b-fc77-42c2-90ad-fea333d54392)
 
-![](menu_3.png)
 ### 5. Menu Hapus Data Pasien (Delete)
-
-![](menu_4.png)
+![menu_4](https://github.com/user-attachments/assets/9e64d067-3932-4122-8ab7-9a26d98c219c)
